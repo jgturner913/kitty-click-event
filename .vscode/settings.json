@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "fren",
+    "purry"
+  ],
+  "debug.console.fontSize": 14,
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "node"
+  },
+  "npm.enableRunFromFolder": true,
+  "livePreview.tasks.runTaskWithExternalPreview": true,
+  "editor.codeActionsOnSave": {}
+}
